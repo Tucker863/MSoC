@@ -1,7 +1,6 @@
 import React from 'react';
 
-import { Twitter } from 'styled-icons/boxicons-logos/Twitter';
-import { Github } from 'styled-icons/boxicons-logos/Github';
+import { Facebook } from 'styled-icons/boxicons-logos/Facebook';
 
 import * as S from './styled';
 
@@ -10,20 +9,11 @@ const SocialLinks = () => {
     <S.SocialLinksList>
       <S.SocialLinksItem>
         <S.SocialLinksLink
-          href="https://github.com/diogorodrigues/iceberg-gatsby-multilang"
-          title="Github"
+          href="https://facebook.com/_diogorodrigues"
+          title="Facebook"
           target="_blank"
         >
-          <Github />
-        </S.SocialLinksLink>
-      </S.SocialLinksItem>
-      <S.SocialLinksItem>
-        <S.SocialLinksLink
-          href="https://twitter.com/_diogorodrigues"
-          title="Twitter"
-          target="_blank"
-        >
-          <Twitter />
+          <Facebook />
         </S.SocialLinksLink>
       </S.SocialLinksItem>
     </S.SocialLinksList>

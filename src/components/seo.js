@@ -32,6 +32,7 @@ function SEO({ description, lang, meta, title, image }) {
 
     const url = site.siteMetadata.siteUrl
     const ogImage = `${url}${image || '/assets/img/cover.png'}`
+    const dir = locale === 'ar' ? 'rtl' : 'ltr'
 
     return (
         <Helmet
