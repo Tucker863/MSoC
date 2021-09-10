@@ -1,0 +1,21 @@
+{
+  "home": "Нүүр хуудас",
+
+  "hello": "Хэл, хил, мал",
+  "subline": "сайн байна уу",
+  "latestPosts": "Сүүлийн нийтлэлүүд",
+  "category": "Ангилал",
+  "allPosts": "Бүх нийтлэл",  
+  "toRead": "унших",
+
+  "next": "Дараагийнх",
+  "prev": "Өмнөх",
+  "of": "",
+
+  "button": "Товч",
+
+  "aboutProject": "Монгол сургууль.",
+  "seeMorePWA": "Илүү ихийг үзэх",
+  "maintainedBy": "Гүйцэтгэсэн",
+  "contributeMessage": "Нэг мессеж"
+}

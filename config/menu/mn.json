@@ -1,0 +1,8 @@
+{
+  "menuItems": [
+    { "name": "Нүүр хуудас", "link": "/" },
+    { "name": "Тухай", "link": "/sobre" },
+    { "name": "Блог", "link": "/blog" },
+    { "name": "Харилцах", "link": "/contato" }
+  ]
+}

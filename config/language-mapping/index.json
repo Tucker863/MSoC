@@ -2,36 +2,36 @@
   "languageMapping": [
     {
       "en": "/about",
-      "pt": "/sobre"
+      "mn": "/sobre"
     },
     {
       "en": "/blog",
-      "pt": "/blog"
+      "mn": "/blog"
     },
     {
       "en": "/contact",
-      "pt": "/contato"
+      "mn": "/contato"
     },
 
     {
       "en": "/blog/markdown-examples",
-      "pt": "/blog/exemplos-de-markdown"
+      "mn": "/blog/exemplos-de-markdown"
     },
     {
       "en": "/blog/javascript-language",
-      "pt": "/blog/linguagem-javascript"
+      "mn": "/blog/linguagem-javascript"
     },
     {
       "en": "/blog/digital-image-processing",
-      "pt": "/blog/processamento-de-imagens-digitais"
+      "mn": "/blog/processamento-de-imagens-digitais"
     },
     {
       "en": "/blog/adding-menu-items",
-      "pt": "/blog/adicionando-itens-no-menu"
+      "mn": "/blog/adicionando-itens-no-menu"
     },
     {
       "en": "/blog/creating-posts-and-pages",
-      "pt": "/blog/criacao-de-posts-e-paginas"
+      "mn": "/blog/criacao-de-posts-e-paginas"
     }
   ]
 } 
