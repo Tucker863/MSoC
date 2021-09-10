@@ -18,6 +18,8 @@ const Languages = () => {
 
     const url = window.location.pathname.split("/").pop();
 
+    
+
     if (!url) return lang === "en" ?
       navigate(`/`) :
       navigate(`/${lang}`);
@@ -34,9 +36,10 @@ const Languages = () => {
 
     if (!associatedUrls) return navigate("/");
 
+    const singleSlashSlug = associatedUrls[lang].replace(/\/\//g,'/');
     return lang === "en" ?
-      navigate(`/${associatedUrls[lang]}`) :
-      navigate(`/${lang}/${associatedUrls[lang]}`);
+      navigate(singleSlashSlug) :
+      navigate(`/${lang}${singleSlashSlug}`);s
   }
 
   return (
