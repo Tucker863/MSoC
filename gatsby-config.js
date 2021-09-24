@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby multiple language starter`,
-    description: `A simple but feature rich starter boilerplate for creating a multi-language Gatsby website (Internationalization / i18n) without third party plugins or packages and also focused on SEO. This starter also contains other main Gatsby configurations you might need.`,
-    author: `@diogorodrigues`,
-    siteUrl: `https://iceberg-gatsby-multilang.netlify.com/`,
+    title: `Mongolian School of Colorado`,
+    description: `Official website of Mongolian School of Colorado`,
+    author: `Turtogtokh Munkhtsooj`,
+    siteUrl: `https://mongolianschoolofcolorado.org/`,
   },
   plugins: [
     `gatsby-plugin-netlify-cms`,
@@ -100,13 +100,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby multiple language`,
-        short_name: `Gatsby multiple language`,
+        name: `Mongolian School of Colorado`,
+        short_name: `Mongolian School of Colorado`,
         start_url: `/`,
         background_color: `#16202c`,
         theme_color: `#16202c`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`,
+        icon: `src/images/jijig.png`,
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
