@@ -22,6 +22,13 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        name: `backgrounds`,
+        path: `${__dirname}/static/assets/bg`, 
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         path: `${__dirname}/config/translations`,
         name: `translations`,
       },
