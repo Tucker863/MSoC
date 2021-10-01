@@ -5,7 +5,6 @@ import PostItem from '../components/PostItem';
 import TitlePage from '../components/TitlePage';
 import LocalizedLink from '../components/LocalizedLink';
 import useTranslations from '../components/useTranslations';
-import BackgroundSlider from 'gatsby-image-background-slider'
 
 import * as S from '../components/ListWrapper/styled';
 
@@ -22,27 +21,6 @@ const Index = ({ data: { allMarkdownRemark } }) => {
 
   const postList = allMarkdownRemark.edges;
 
-  const carOut = ({ children }) => (
-    <>
-      <main>{children}</main>
-      <BackgroundSlider 
-        query={useStaticQuery(graphql`
-          query {
-            backgrounds: allFile (filter: {sourceInstanceName: {eq: "backgrounds"}}){
-              nodes {
-                relativePath
-                childImageSharp {
-                  fluid (maxWidth: 4000, quality: 100){
-                    ...GatsbyImageSharpFluid
-                  }
-                }
-              }
-            }
-          }
-        `)}
-      />
-    </>
-  )
 
   return (
     <div className="homepage">
@@ -55,9 +33,6 @@ const Index = ({ data: { allMarkdownRemark } }) => {
       </h2>
 
       <br />
-      <BackgroundSlider>
-        <p>{carOut}</p>
-      </BackgroundSlider>
       <S.ListWrapper>
         {postList.map(
           ({

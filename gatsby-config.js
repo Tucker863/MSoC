@@ -11,19 +11,13 @@ module.exports = {
     `gatsby-transformer-json`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    'gatsby-image-background-slider',
     // It needs to be the first one to work with gatsby-remark-images
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/static/assets/img`,
         name: `uploads`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `backgrounds`,
-        path: `${__dirname}/static/assets/bg`, 
       },
     },
     {
