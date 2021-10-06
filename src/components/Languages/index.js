@@ -39,7 +39,7 @@ const Languages = () => {
     const singleSlashSlug = associatedUrls[lang].replace(/\/\//g,'/');
     return lang === "en" ?
       navigate(singleSlashSlug) :
-      navigate(`/${lang}${singleSlashSlug}`);s
+      navigate(`/${lang}${singleSlashSlug}`);
   }
 
   return (

@@ -1,9 +1,9 @@
 {
   "menuItems": [
     { "name": "Нүүр хуудас", "link": "/" },
-    { "name": "Бидний Тухайн", "link": "/sobre" },
+    { "name": "Бидний Тухай", "link": "/sobre" },
     { "name": "Хөтөлбөр", "link": "/blog" },
-    { "name": "Араг хэмжээ", "link": "/uilajillagaa" },
+    { "name": "Арга хэмжээ", "link": "/uilajillagaa" },
     { "name": "Харилцах", "link": "/contato" }
   ]
 }
