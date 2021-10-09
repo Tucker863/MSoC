@@ -1,6 +1,5 @@
 {
   "menuItems": [
-    { "name": "Home", "link": "/" },
     { "name": "About", "link": "/about" },
     { "name": "Our Programs", "link": "/blog" },
     { "name": "Events", "link": "/event" },

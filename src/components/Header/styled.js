@@ -29,7 +29,9 @@ export const Container = styled.div`
 export const LogoLink = styled(LocalizedLink)`
   display: inline-block;
   margin-right: 0.5rem;
-  width: 170px;
+  flex-basis: 170px;
+  flex-shrink: 0;
+  flex-grow: 0;
 `;
 
 export const ButtonMenu = styled.div`
