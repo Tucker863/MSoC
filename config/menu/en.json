@@ -1,8 +1,8 @@
 {
   "menuItems": [
     { "name": "About", "link": "/about" },
-    { "name": "Our Programs", "link": "/blog" },
-    { "name": "Events", "link": "/event" },
+    { "name": "Our Programs", "link": "/program" },
+    { "name": "Events", "link": "/blog" },
     { "name": "Contact", "link": "/contact" }
   ]
 }

@@ -8,8 +8,8 @@ const Footer = () => {
   const {
     aboutProject,
     seeMorePWA,
-    maintainedBy,
     contributeMessage,
+    
   } = useTranslations();
 
   return (
@@ -19,29 +19,17 @@ const Footer = () => {
         <p>
           {aboutProject}{' '}
           <a
-            href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps"
+            href="https://www.facebook.com/mongolianschoolofcolorado.org/"
             target="_blank"
           >
             {seeMorePWA}
           </a>
-          .
         </p>
-        <p>
-          {maintainedBy}{' '}
-          <a
-            href="https://twitter.com/_diogorodrigues"
-            target="_blank"
+        <p>{contributeMessage}{' '}
+          <p
           >
-            @_diogorodrigues
-          </a>
-          . {contributeMessage}{' '}
-          <a
-            href="https://github.com/diogorodrigues/iceberg-gatsby-multilang"
-            target="_blank"
-          >
-            Github
-          </a>
-          .
+            © 2021
+          </p>
         </p>
       </S.FooterContainer>
     </S.FooterWrapper>

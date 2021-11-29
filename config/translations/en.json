@@ -1,8 +1,8 @@
 { 
   "home": "Home",
-
-  "hello": "Gatsby multi-language starter",
-  "subline": "Internationalization / i18n without third party plugins or packages for Posts and Pages. Different URLs dependending on the language. Focused on SEO, PWA, Image Optimization, Styled Components and more. This starter is also integrate with Netlify CMS to manage all pages, posts and images.",
+  "buuld": "Mission Statement",
+  "hello": "It is our mission to teach and pass down our treasured Mongolian language, history, culture and traditional values to our future generations.",
+  "subline": "Mongolian School of Colorado has been operating since 2006. Our passion to pass on the traditions, values and build community has motivated us over the years. In 2020, we received our 501(c)(3) nonprofit status and have expanded our operations. We are grateful to have the opportunity to be a hub for the community and support our kids. It is important for us to instill in our Mongolian-American children that their dual-identities are valued and celebrated and teach them the importance of keeping Mongolian traditions part of their lives.",
   "latestPosts": "Latest posts",
   "category": "Category", 
   "allPosts": "All Posts",
@@ -14,8 +14,8 @@
 
   "button": "Payment",
 
-  "aboutProject": "Iceberg Gatsby is a PWA, save it for offline reading.",
-  "seeMorePWA": "See more PWA here",
+  "aboutProject": "Follow us on Facebook here",
+  "seeMorePWA": "@MongolianSchoolofColorado",
   "maintainedBy": "Maintained by",
-  "contributeMessage": "You can always contribute with the project on"
+  "contributeMessage": ""
 }

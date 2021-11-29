@@ -15,6 +15,7 @@ const Index = ({ data: { allMarkdownRemark } }) => {
   // so it'll automatically give back the right translations
   const {
     hello,
+    buuld,
     subline,
     category,
     latestPosts,
@@ -35,6 +36,7 @@ const Index = ({ data: { allMarkdownRemark } }) => {
     <div className="homepage">
       <SEO title="Home" />
       <TitlePage text={hello} />
+      <h1>{buuld}</h1>
       <Carousel autoplay>
         {
           imageLink.map((link, idx) => {

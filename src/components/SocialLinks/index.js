@@ -9,7 +9,7 @@ const SocialLinks = () => {
     <S.SocialLinksList>
       <S.SocialLinksItem>
         <S.SocialLinksLink
-          href="https://facebook.com/_diogorodrigues"
+          href="https://www.facebook.com/mongolianschoolofcolorado.org/"
           title="Facebook"
           target="_blank"
         >

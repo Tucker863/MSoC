@@ -1,100 +1,46 @@
 ---
-title: 'About'
-date: 2019-07-01 01:21:23
+title: 'About us'
+date: 2021-11-27 01:21:23
 page: true
 ---
 
-## What is Lorem Ipsum?
+## Mongolian School of Colorado was established in 2006 with the goal of teaching the first generation Mongolian-Americans.
+<div style="text-align: justify">The Mongolian language, culture, history and traditions. Our team consists of teachers, volunteers and board of directors.
+By working with our students from toddlers to young adults and their parents, we bridge the gaps in generational, cultural, and language barriers our families encounter as Mongolian-Americans.</div>
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-[I'm an inline-style link](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+# Leadership team
 
-[I'm a reference-style link][arbitrary case-insensitive reference text]
+### Munkhdelger Boldbaatar, Executive Director
+<div style="text-align: justify">Munkhdelger Boldbaatar serves as the executive director of the school and responsible for managing the team and running the day-to-day operations.Since 2018, he has been active on the board of the Colorado Mongolian Association and has always supported and sponsored the Mongolian School.She is pleased to be working with the talented staff of the Mongolian School this school year with the noble goal of teaching and inheriting the rich Mongolian language and Mongolian culture and traditions to our children.She graduated from Otgontenger University in 1995 with a Bachelor's degree in English Teacher-Translator. In 1998, she graduated from the Mongolian Journalism Institute's Higher Course in Journalism with a degree in journalism. She worked as an English teacher at the Jamyangarav Institute of Literature and as a journalist for Eagle TV and UBS TV.</div>
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
 
-[You can use numbers for reference-style link definitions][1]
+### Khulan Amarsanaa, Board Chair
+<div style="text-align: justify">Khulan Amarsanaa is the board chair for the Mongolian School of Colorado. Prior to taking this role, she served as the principal for the school and was grateful to have served for five years. 
+Prior to joining the school, she worked in the legal departments for Jackson National, a financial company and Arrow Electronics, a technology company. 
 
-Or leave it empty and use the [link text itself].
+Khulan graduated from the Law School of the National University of Mongolia in 2005. After graduating from university, she moved to Denver 2005. She received her master’s in American Law Practice from the University of Denver, Sturm College of Law in 2014.</div>
 
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
+She lives with her husband and two children.
+### Enkhmaa Schwarz (Emma), Board Treasurer 
+<div style="text-align: justify">Enkhmaa Schwarz (Emma) serves as board treasurer at the Mongolian School of Colorado, overseeing the accounting functions and reporting. As a board volunteer, Emma helps in fundraising and areas of operations. 
+Her other community engagement includes finance committee member for Latino Community Foundation of Colorado, advisory committee for Colorado Communities of Colorado Loan Fund as well as volunteering at Jewish Family Service.
+Emma currently works as the controller at Rose Community Foundation and is primarily responsible for maintaining the accuracy and integrity of the Foundation’s financial records. She held various positions in accounting and management in the for-profit sector. While working full time, she also helped run her family business with her husband.
+Emma received her bachelor’s degree in business administration and accounting from Columbia College in 2006. She also studied mathematics and economics in Ulaanbaatar, Mongolia, where she was born. She recently completed certificate programs for Nonprofit Financial Success from Cornell University and Management Essentials from Harvard Business School Online.
+</div>
 
-Some text to show that the reference links can follow later.
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+### Alimaa Davaasuren, Board Member
+<div style="text-align: justify">Alimaa Davaasuren, served as the principal for the school in the year 2020 and language teacher seven years prior. Her passion to be part of the Mongolian school is fueled by seeing the students saturday mornings coming to the school as happily as if they were coming home. She is proud to contribute towards creating citizens who are knowledgeable of the Mongolian language, culture and history.
 
-### Why do we use it?
+Alimaa graduated from the Institute of International Relations of the National University of Mongolia in 2002 as a Russian language teacher and translator. Graduated from Colorado Heights University in 2009 with a degree in International Business Administration. 
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+She moved to the United States in 2005 and now lives with her husband and two children.
+In her free time she enjoys spending time with her family, developing herself, playing volleyball and spending time with her friends.</div>
 
-```javascript
-var s = 'JavaScript syntax highlighting'
-alert(s)
-```
 
-```python
-s = "Python syntax highlighting"
-print s
-```
+# Our teachers
 
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
-
-### Where does it come from?
-
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-Colons can be used to align columns.
-
-| Tables        |      Are      |   Cool |
-| ------------- | :-----------: | -----: |
-| col 3 is      | right-aligned | \$1600 |
-| col 2 is      |   centered    |   \$12 |
-| zebra stripes |   are neat    |    \$1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown.
-
-| Markdown | Less      | Pretty     |
-| -------- | --------- | ---------- |
-| _Still_  | `renders` | **nicely** |
-| 1        | 2         | 3          |
-
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
-
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
-
-Quote break.
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can _put_ **Markdown** into a blockquote.
-
-### Where can I get some?
-
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hkiLfE22C2Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Three or more...
-
----
-
-Hyphens
-
----
-
-Asterisks
-
----
-
-Underscores

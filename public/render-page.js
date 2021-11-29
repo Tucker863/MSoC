@@ -1,12 +1,12 @@
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
-		module.exports = factory(require("C:\\Users\\billa\\source\\repos\\MSoC\\node_modules\\@reach\\router\\index.js"), require("fs"), require("C:\\Users\\billa\\source\\repos\\MSoC\\node_modules\\lodash\\merge.js"), require("path"), require("react"), require("react-dom/server"), require("react-helmet"));
+		module.exports = factory(require("C:\\Users\\tmunkhtsooj\\Documents\\repos\\SchoolOfColorado\\node_modules\\@reach\\router\\index.js"), require("fs"), require("C:\\Users\\tmunkhtsooj\\Documents\\repos\\SchoolOfColorado\\node_modules\\lodash\\merge.js"), require("path"), require("react"), require("react-dom/server"), require("react-helmet"));
 	else if(typeof define === 'function' && define.amd)
-		define("lib", ["C:\\Users\\billa\\source\\repos\\MSoC\\node_modules\\@reach\\router\\index.js", "fs", "C:\\Users\\billa\\source\\repos\\MSoC\\node_modules\\lodash\\merge.js", "path", "react", "react-dom/server", "react-helmet"], factory);
+		define("lib", ["C:\\Users\\tmunkhtsooj\\Documents\\repos\\SchoolOfColorado\\node_modules\\@reach\\router\\index.js", "fs", "C:\\Users\\tmunkhtsooj\\Documents\\repos\\SchoolOfColorado\\node_modules\\lodash\\merge.js", "path", "react", "react-dom/server", "react-helmet"], factory);
 	else if(typeof exports === 'object')
-		exports["lib"] = factory(require("C:\\Users\\billa\\source\\repos\\MSoC\\node_modules\\@reach\\router\\index.js"), require("fs"), require("C:\\Users\\billa\\source\\repos\\MSoC\\node_modules\\lodash\\merge.js"), require("path"), require("react"), require("react-dom/server"), require("react-helmet"));
+		exports["lib"] = factory(require("C:\\Users\\tmunkhtsooj\\Documents\\repos\\SchoolOfColorado\\node_modules\\@reach\\router\\index.js"), require("fs"), require("C:\\Users\\tmunkhtsooj\\Documents\\repos\\SchoolOfColorado\\node_modules\\lodash\\merge.js"), require("path"), require("react"), require("react-dom/server"), require("react-helmet"));
 	else
-		root["lib"] = factory(root["C:\\Users\\billa\\source\\repos\\MSoC\\node_modules\\@reach\\router\\index.js"], root["fs"], root["C:\\Users\\billa\\source\\repos\\MSoC\\node_modules\\lodash\\merge.js"], root["path"], root["react"], root["react-dom/server"], root["react-helmet"]);
+		root["lib"] = factory(root["C:\\Users\\tmunkhtsooj\\Documents\\repos\\SchoolOfColorado\\node_modules\\@reach\\router\\index.js"], root["fs"], root["C:\\Users\\tmunkhtsooj\\Documents\\repos\\SchoolOfColorado\\node_modules\\lodash\\merge.js"], root["path"], root["react"], root["react-dom/server"], root["react-helmet"]);
 })(this, function(__WEBPACK_EXTERNAL_MODULE__reach_router__, __WEBPACK_EXTERNAL_MODULE_fs__, __WEBPACK_EXTERNAL_MODULE_lodash_merge__, __WEBPACK_EXTERNAL_MODULE_path__, __WEBPACK_EXTERNAL_MODULE_react__, __WEBPACK_EXTERNAL_MODULE_react_dom_server__, __WEBPACK_EXTERNAL_MODULE_react_helmet__) {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
@@ -36281,7 +36281,7 @@ function __classPrivateFieldSet(receiver, privateMap, value) {
 /*! exports provided: data, default */
 /***/ (function(module) {
 
-module.exports = JSON.parse("{\"data\":{\"rawData\":{\"edges\":[{\"node\":{\"name\":\"mn\",\"translations\":{\"menuItems\":[{\"link\":\"/\",\"name\":\"Нүүр\"},{\"link\":\"/blog\",\"name\":\"Хөтөлбөр\"},{\"link\":\"/uilajillagaa\",\"name\":\"Арга хэмжээ\"},{\"link\":\"/contato\",\"name\":\"Харилцах\"}]}}},{\"node\":{\"name\":\"en\",\"translations\":{\"menuItems\":[{\"link\":\"/\",\"name\":\"Home\"},{\"link\":\"/blog\",\"name\":\"Our Programs\"},{\"link\":\"/event\",\"name\":\"Events\"},{\"link\":\"/contact\",\"name\":\"Contact\"}]}}}]}}}");
+module.exports = JSON.parse("{\"data\":{\"rawData\":{\"edges\":[{\"node\":{\"name\":\"mn\",\"translations\":{\"menuItems\":[{\"link\":\"/about\",\"name\":\"Бидний Тухай\"},{\"link\":\"/hotolbor\",\"name\":\"Хөтөлбөр\"},{\"link\":\"/uilajillagaa\",\"name\":\"Арга хэмжээ\"},{\"link\":\"/contato\",\"name\":\"Харилцах\"}]}}},{\"node\":{\"name\":\"en\",\"translations\":{\"menuItems\":[{\"link\":\"/about\",\"name\":\"About\"},{\"link\":\"/program\",\"name\":\"Our Programs\"},{\"link\":\"/event\",\"name\":\"Events\"},{\"link\":\"/contact\",\"name\":\"Contact\"}]}}}]}}}");
 
 /***/ }),
 
@@ -36303,7 +36303,7 @@ module.exports = JSON.parse("{\"data\":{\"rawData\":{\"edges\":[{\"node\":{\"nam
 /*! exports provided: data, default */
 /***/ (function(module) {
 
-module.exports = JSON.parse("{\"data\":{\"rawData\":{\"edges\":[{\"node\":{\"name\":\"en\",\"translations\":{\"home\":\"Home\",\"hello\":\"Gatsby multi-language starter\",\"subline\":\"Internationalization / i18n without third party plugins or packages for Posts and Pages. Different URLs dependending on the language. Focused on SEO, PWA, Image Optimization, Styled Components and more. This starter is also integrate with Netlify CMS to manage all pages, posts and images.\",\"latestPosts\":\"Latest posts\",\"category\":\"Category\",\"allPosts\":\"All Posts\",\"toRead\":\"to read\",\"next\":\"Next\",\"prev\":\"Prev\",\"of\":\"of\",\"button\":\"Payment\",\"aboutProject\":\"Iceberg Gatsby is a PWA, save it for offline reading.\",\"seeMorePWA\":\"See more PWA here\",\"maintainedBy\":\"Maintained by\",\"contributeMessage\":\"You can always contribute with the project on\"}}},{\"node\":{\"name\":\"mn\",\"translations\":{\"home\":\"Нүүр хуудас\",\"hello\":\"Хэл, хил, мал\",\"subline\":\"сайн байна уу\",\"latestPosts\":\"Сүүлийн нийтлэлүүд\",\"category\":\"Ангилал\",\"allPosts\":\"Бүх нийтлэл\",\"toRead\":\"унших\",\"next\":\"Дараагийнх\",\"prev\":\"Өмнөх\",\"of\":\"\",\"button\":\"Төлбөр төлөх\",\"aboutProject\":\"Монгол сургууль.\",\"seeMorePWA\":\"Илүү ихийг үзэх\",\"maintainedBy\":\"Гүйцэтгэсэн\",\"contributeMessage\":\"Нэг мессеж\"}}}]}}}");
+module.exports = JSON.parse("{\"data\":{\"rawData\":{\"edges\":[{\"node\":{\"name\":\"en\",\"translations\":{\"home\":\"Home\",\"hello\":\"It is our mission to teach and pass down our treasured Mongolian language, history, culture and traditional values to our future generations.\",\"subline\":\"Mongolian School of Colorado has been operating since 2006. Our passion to pass on the traditions, values and build community has motivated us over the years. In 2020, we received our 501(c)(3) nonprofit status and have expanded our operations. We are grateful to have the opportunity to be a hub for the community and support our kids. It is important for us to instill in our Mongolian-American children that their dual-identities are valued and celebrated and teach them the importance of keeping Mongolian traditions part of their lives.\",\"latestPosts\":\"Latest posts\",\"category\":\"Category\",\"allPosts\":\"All Posts\",\"toRead\":\"to read\",\"next\":\"Next\",\"prev\":\"Prev\",\"of\":\"of\",\"button\":\"Payment\",\"aboutProject\":\"Iceberg Gatsby is a PWA, save it for offline reading.\",\"seeMorePWA\":\"See more PWA here\",\"maintainedBy\":\"Maintained by\",\"contributeMessage\":\"You can always contribute with the project on\"}}},{\"node\":{\"name\":\"mn\",\"translations\":{\"home\":\"Нүүр хуудас\",\"hello\":\"Үндэсний эрхэм баялаг болох монгол хэл, түүх, соёл, уламжлал, ёс заншилаа үр хойчдоо өвлүүлж үлдээх нь бидний эрхэм зорилго юм.\",\"subline\":\"Колорадогийн Монгол Сургууль нь 2006 оноос хойш үйл ажиллагаагаа явуулж байгаа бөгөөд бидний уламжлал, ёс заншилаа үр хойчдоо өвлүүлж үлдээх, хүсэл эрмэлзэл маань олон жилийн туршид бидэнд урам зориг өгч ирсэн. 2020 онд бид ашгийн төлөө бус 501 (c) (3) статусаа хүлээн авч, үйл ажиллагаагаа өргөжүүлэн ажиллаж байна. Манай сургууль нь олон нийтийн төв болж, хүүхдүүдээ дэмжих боломж олдсонд талархаж явдаг. Монгол-Америк хүүхдүүддээ Монгол болон Америк хос соёлоо үнэлж явахыг ойлгуулж, монгол уламжлалаа даган явахын ач холбогдлыг тэдэнд заах нь бидэнд чухал билээ.\",\"latestPosts\":\"Сүүлийн нийтлэлүүд\",\"category\":\"Ангилал\",\"allPosts\":\"Бүх нийтлэл\",\"toRead\":\"унших\",\"next\":\"Дараагийнх\",\"prev\":\"Өмнөх\",\"of\":\"\",\"button\":\"Төлбөр\",\"aboutProject\":\"Монгол сургууль.\",\"seeMorePWA\":\"Илүү ихийг үзэх\",\"maintainedBy\":\"Гүйцэтгэсэн\",\"contributeMessage\":\"Нэг мессеж\"}}}]}}}");
 
 /***/ }),
 
@@ -36377,19 +36377,12 @@ const Footer = () => {
   const {
     aboutProject,
     seeMorePWA,
-    maintainedBy,
     contributeMessage
   } = Object(_useTranslations__WEBPACK_IMPORTED_MODULE_1__["default"])();
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_styled__WEBPACK_IMPORTED_MODULE_3__["FooterWrapper"], null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_styled__WEBPACK_IMPORTED_MODULE_3__["FooterContainer"], null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_SocialLinks__WEBPACK_IMPORTED_MODULE_2__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, aboutProject, ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps",
+    href: "https://www.facebook.com/mongolianschoolofcolorado.org/",
     target: "_blank"
-  }, seeMorePWA), "."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, maintainedBy, ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "https://twitter.com/_diogorodrigues",
-    target: "_blank"
-  }, "@_diogorodrigues"), ". ", contributeMessage, ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "https://github.com/diogorodrigues/iceberg-gatsby-multilang",
-    target: "_blank"
-  }, "Github"), ".")));
+  }, seeMorePWA), "."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, ". ", contributeMessage, ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "\xA9 2021"), ".")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Footer);
@@ -36808,7 +36801,7 @@ __webpack_require__.r(__webpack_exports__);
 
 const SocialLinks = () => {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_styled__WEBPACK_IMPORTED_MODULE_2__["SocialLinksList"], null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_styled__WEBPACK_IMPORTED_MODULE_2__["SocialLinksItem"], null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_styled__WEBPACK_IMPORTED_MODULE_2__["SocialLinksLink"], {
-    href: "https://facebook.com/_diogorodrigues",
+    href: "https://www.facebook.com/mongolianschoolofcolorado.org/",
     title: "Facebook",
     target: "_blank"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(styled_icons_boxicons_logos_Facebook__WEBPACK_IMPORTED_MODULE_1__["Facebook"], null))));
@@ -37256,9 +37249,9 @@ const wrapPageElement = ({
 /***/ }),
 
 /***/ "@reach/router":
-/*!************************************************************************************************!*\
-  !*** external "C:\\Users\\billa\\source\\repos\\MSoC\\node_modules\\@reach\\router\\index.js" ***!
-  \************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** external "C:\\Users\\tmunkhtsooj\\Documents\\repos\\SchoolOfColorado\\node_modules\\@reach\\router\\index.js" ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -37278,9 +37271,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_fs__;
 /***/ }),
 
 /***/ "lodash/merge":
-/*!****************************************************************************************!*\
-  !*** external "C:\\Users\\billa\\source\\repos\\MSoC\\node_modules\\lodash\\merge.js" ***!
-  \****************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** external "C:\\Users\\tmunkhtsooj\\Documents\\repos\\SchoolOfColorado\\node_modules\\lodash\\merge.js" ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 

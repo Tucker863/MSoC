@@ -1,8 +1,8 @@
 {
   "menuItems": [
-    { "name": "Бидний Тухай", "link": "/about" },
-    { "name": "Хөтөлбөр", "link": "/blog" },
+    { "name": "Бидний Тухай", "link": "/tuhai" },
+    { "name": "Хөтөлбөр", "link": "/hotolbor" },
     { "name": "Арга хэмжээ", "link": "/uilajillagaa" },
-    { "name": "Харилцах", "link": "/contato" }
+    { "name": "Харилцах", "link": "/holbogdoh" }
   ]
 }
