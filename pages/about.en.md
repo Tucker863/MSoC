@@ -13,7 +13,11 @@ By working with our students from toddlers to young adults and their parents, we
 # Leadership team
 
 ### Munkhdelger Boldbaatar, Executive Director
-<div style="text-align: justify">Munkhdelger Boldbaatar serves as the executive director of the school and responsible for managing the team and running the day-to-day operations.Since 2018, he has been active on the board of the Colorado Mongolian Association and has always supported and sponsored the Mongolian School.She is pleased to be working with the talented staff of the Mongolian School this school year with the noble goal of teaching and inheriting the rich Mongolian language and Mongolian culture and traditions to our children.She graduated from Otgontenger University in 1995 with a Bachelor's degree in English Teacher-Translator. In 1998, she graduated from the Mongolian Journalism Institute's Higher Course in Journalism with a degree in journalism. She worked as an English teacher at the Jamyangarav Institute of Literature and as a journalist for Eagle TV and UBS TV.</div>
+<img src="/assets/headshot/headshotED.jpg" align="left" style="float" width="300" height="300" />
+<div style="text-align: justify" style="font-size:large" >Munkhdelger Boldbaatar serves as the executive director of the school and responsible for managing the team and running the day-to-day operations.Since 2018, he has been active on the board of the Colorado Mongolian Association and has always supported and sponsored the Mongolian School.She is pleased to be working with the talented staff of the Mongolian School this school year with the noble goal of teaching and inheriting the rich Mongolian language and Mongolian culture and traditions to our children.She graduated from Otgontenger University in 1995 with a Bachelor's degree in English Teacher-Translator. In 1998, she graduated from the Mongolian Journalism Institute's Higher Course in Journalism with a degree in journalism. She worked as an English teacher at the Jamyangarav Institute of Literature and as a journalist for Eagle TV and UBS TV.</div>
+
+
+
 
 
 ### Khulan Amarsanaa, Board Chair
