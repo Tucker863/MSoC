@@ -2,7 +2,7 @@
   "menuItems": [
     { "name": "Бидний Тухай", "link": "/tuhai" },
     { "name": "Хөтөлбөр", "link": "/hotolbor" },
-    { "name": "Арга хэмжээ", "link": "/uilajillagaa" },
+    { "name": "Арга хэмжээ", "link": "/blog" },
     { "name": "Харилцах", "link": "/holbogdoh" }
   ]
 }

@@ -17,13 +17,14 @@ export const LanguageWrapper = styled.ul`
 
 export const LanguageItem = styled.li`
   margin-left: var(--space-sm);
+  font-size:22px;
 `;
 
 export const LanguageLink = styled(Link)`
   display: inline-block;
   margin-right: 0.5rem;
   color: var(--gray);
-  font-size: 1.4rem;
+  font-size: 18px;
   text-decoration: none;
 
   &.is-active {

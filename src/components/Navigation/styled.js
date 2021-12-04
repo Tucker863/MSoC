@@ -7,6 +7,7 @@ export const Navigation = styled.nav`
   display: flex;
   flex-direction: column;
   margin-top: var(--space-sm);
+  font-size:20px;
   ${media.greaterThan('medium')`
     flex-direction: row;
     align-items: center;

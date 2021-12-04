@@ -6,7 +6,7 @@ category: Markdown
 background: '#353b48'
 image: '/assets/img/03.jpg'
 ---
-
+neg mongol ug
 O Markdown deve ser o mais fácil de ler e escrever o mais possível.
 
 A legibilidade, no entanto, é enfatizada acima de tudo. Um documento no formato Markdown deve ser publicado como está, como texto sem formatação, sem parecer ter sido marcado com tags ou instruções de formatação. Embora a sintaxe do Markdown tenha sido influenciada por vários filtros de texto para HTML existentes - incluindo Setext, atx, Textile, reStructuredText, Grutatext e EtText - a maior fonte de inspiração para a sintaxe do Markdown é o formato de email em texto sem formatação.
