@@ -49,6 +49,9 @@ const Index = ({ data: { allMarkdownRemark } }) => {
         }
 
       </Carousel>
+      {/*
+      
+      
       <p>{subline}</p>
       <hr style={{ margin: `2rem 0` }} />
       <h2>
@@ -89,6 +92,7 @@ const Index = ({ data: { allMarkdownRemark } }) => {
       <br />
 
       <LocalizedLink to={`/blog/`}>{allPosts}</LocalizedLink>
+      */}
     </div>
   );
 };

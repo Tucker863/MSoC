@@ -52,5 +52,5 @@ Emma received her bachelor’s degree in business administration and accounting 
 
 # Our teachers
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hkiLfE22C2Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="" style="display:block"/>
+<img src="/assets/headshot/teachers.gif" style="margin-left: auto; margin-right: auto; width:75%"/>
