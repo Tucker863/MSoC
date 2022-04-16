@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://mongolianschoolofcolorado.org/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mongolianschoolofcolorado.org/mn/holbogdoh</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://mongolianschoolofcolorado.org/program</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://mongolianschoolofcolorado.org/mn/hotolbor</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mongolianschoolofcolorado.org/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mongolianschoolofcolorado.org/program</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mongolianschoolofcolorado.org/mn/tuhai</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://mongolianschoolofcolorado.org/mn/blog/adicionando-itens-no-menu</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mongolianschoolofcolorado.org/mn/hotolbor</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mongolianschoolofcolorado.org/blog/adding-menu-items</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mongolianschoolofcolorado.org/mn/blog/adicionando-itens-no-menu</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mongolianschoolofcolorado.org/blog/creating-posts-and-pages</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mongolianschoolofcolorado.org/mn/blog/criacao-de-posts-e-paginas</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mongolianschoolofcolorado.org/event</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mongolianschoolofcolorado.org/mn/a</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mongolianschoolofcolorado.org/mn/blog/processamento-de-imagens-digitais</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mongolianschoolofcolorado.org/blog/digital-image-processing</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://mongolianschoolofcolorado.org/blog/javascript-language</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mongolianschoolofcolorado.org/mn/blog/linguagem-javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mongolianschoolofcolorado.org/blog/javascript-language</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mongolianschoolofcolorado.org/mn/blog/exemplos-de-markdown</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mongolianschoolofcolorado.org/blog/markdown-examples</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mongolianschoolofcolorado.org/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>

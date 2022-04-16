@@ -27,10 +27,10 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-42f5be50cb9caa13a65d.js"
+    "url": "webpack-runtime-2693a94dc4a39b3f79c2.js"
   },
   {
-    "url": "styles.dedda5969d18ebf58ce9.css"
+    "url": "styles.78182392e978d84ea0db.css"
   },
   {
     "url": "styles-7d4153d260c0197f0043.js"
@@ -42,18 +42,18 @@ self.__precacheManifest = [
     "url": "532a2f07-3c67b2f9981cf3c66c80.js"
   },
   {
-    "url": "app-bb786061a66d0c6decc5.js"
+    "url": "app-7f5efa4c896ca0b3b44d.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "42e7dcae1295271e212c5b9fb0f6212d"
+    "revision": "9fe52b904f80ab970cc9a7b8e2a66480"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-241020a1cf7d0f317bbe.js"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
-    "revision": "4b1f9e7520f5b2ffc5fcb25b8309229f"
+    "revision": "67ab8c6895a1006ade0393e44a6025b0"
   },
   {
     "url": "page-data/sq/d/1886018365.json",
@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "revision": "478bb7caf2c8315721c7df1af99acb5e"
   },
   {
-    "url": "page-data/sq/d/92653819.json",
-    "revision": "ab8732e36dc7a14902744a25a5c5acee"
+    "url": "page-data/sq/d/76572154.json",
+    "revision": "78b42fa8359e141c1424ae019d5961a0"
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "641f036c9cb4246f313343c360213022"
+    "revision": "db44399173186c376c8d9d727bac8300"
   },
   {
     "url": "polyfill-6345fe6c192448f369b8.js"
@@ -168,7 +168,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-bb786061a66d0c6decc5.js`))) {
+  if (!resources || !(await caches.match(`/app-7f5efa4c896ca0b3b44d.js`))) {
     return await fetch(event.request)
   }
 
