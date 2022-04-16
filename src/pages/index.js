@@ -1,55 +1,76 @@
-import React from 'react';
-import { graphql } from 'gatsby';
-import SEO from '../components/seo';
-import PostItem from '../components/PostItem';
-import TitlePage from '../components/TitlePage';
-import LocalizedLink from '../components/LocalizedLink';
-import useTranslations from '../components/useTranslations';
-import { Carousel } from 'antd';
-
-import * as S from '../components/ListWrapper/styled';
-import 'antd/dist/antd.css';
+import React, { useRef } from 'react'
+import { graphql } from 'gatsby'
+import SEO from '../components/seo'
+import PostItem from '../components/PostItem'
+import TitlePage from '../components/TitlePage'
+import LocalizedLink from '../components/LocalizedLink'
+import useTranslations from '../components/useTranslations'
+import { Carousel } from 'antd'
+import { LeftOutlined, RightOutlined } from '@ant-design/icons'
+import * as S from '../components/ListWrapper/styled'
+import 'antd/dist/antd.css'
+import './style.css'
 
 const Index = ({ data: { allMarkdownRemark } }) => {
-  // useTranslations is aware of the global context (and therefore also "locale")
-  // so it'll automatically give back the right translations
-  const {
-    hello,
-    buuld,
-    subline,
-    category,
-    latestPosts,
-    allPosts,
-  } = useTranslations();
+    // useTranslations is aware of the global context (and therefore also "locale")
+    // so it'll automatically give back the right translations
+    const carousel = React.useRef(null)
 
-  const postList = allMarkdownRemark.edges;
+    const {
+        hello,
+        buuld,
+        subline,
+        category,
+        latestPosts,
+        allPosts,
+    } = useTranslations()
 
-  const imageLink = ['/images/slides/slide (1).jpg', '/images/slides/slide (2).jpg', '/images/slides/slide (3).jpg', '/images/slides/slide (4).jpg', '/images/slides/slide (5).jpg'];
-  const contentStyle = {
-    height: '160px',
-    color: '#fff',
-    lineHeight: '160px',
-    textAlign: 'center',
-    background: '#364d79',
-  };
-  return (
-    <div className="homepage">
-      <SEO title="Home" />
-      <TitlePage text={hello} />
-      <h1>{buuld}</h1>
-      <Carousel autoplay>
-        {
-          imageLink.map((link, idx) => {
-            return (
-              <div key={idx}>
-                <img src={link} alt="" />
-              </div>
-            )
-          })
-        }
+    const postList = allMarkdownRemark.edges
 
-      </Carousel>
-      {/*
+    const imageLink = [
+        '/images/slides/slide (1).jpg',
+        '/images/slides/slide (2).jpg',
+        '/images/slides/slide (3).jpg',
+        '/images/slides/slide (4).jpg',
+        '/images/slides/slide (5).jpg',
+    ]
+    const contentStyle = {
+        height: '160px',
+        color: '#fff',
+        lineHeight: '160px',
+        textAlign: 'center',
+        background: '#364d79',
+    }
+    return (
+        <div className="homepage">
+            <SEO title="Home" />
+            <div style={{ position: 'relative' }}>
+                <a
+                    className="slider-button left"
+                    onClick={() => carousel.current.prev()}
+                >
+                    <LeftOutlined className="slider-logo" />
+                </a>
+                <Carousel ref={carousel} style={{ marginBottom: '35px' }}>
+                    {imageLink.map((link, idx) => {
+                        return (
+                            <div key={idx}>
+                                <img src={link} alt="" />
+                            </div>
+                        )
+                    })}
+                </Carousel>
+                <a
+                    className="slider-button right"
+                    onClick={() => carousel.current.next()}
+                >
+                    <RightOutlined className="slider-logo" />
+                </a>
+            </div>
+            <h1></h1>
+            <TitlePage text={hello} />
+            <h1>{buuld}</h1>
+            {/*
       
       
       <p>{subline}</p>
@@ -93,11 +114,11 @@ const Index = ({ data: { allMarkdownRemark } }) => {
 
       <LocalizedLink to={`/blog/`}>{allPosts}</LocalizedLink>
       */}
-    </div>
-  );
-};
+        </div>
+    )
+}
 
-export default Index;
+export default Index
 
 export const query = graphql`
   query Index($locale: String!, $dateFormat: String!, ) {
@@ -129,4 +150,4 @@ export const query = graphql`
       }
     }
   }
-`;
+`

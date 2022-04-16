@@ -44,6 +44,7 @@ const query = graphql`
             category
             allPosts
             toRead
+            titlegarchig
 
             next
             prev

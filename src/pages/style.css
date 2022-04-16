@@ -1,0 +1,28 @@
+a.slider-button {
+    position: absolute;
+    top: 50%;
+    z-index: 10;
+    opacity: 0.6;
+    color: white;
+}
+
+a.slider-button:hover {
+    opacity: 1;
+}
+
+a.slider-button.left {
+    left: 40px;
+}
+
+a.slider-button.right {
+    right: 40px;
+}
+a.slider-button .slider-logo {
+    font-size: 50px;
+    color: white;
+}
+
+div.websiteTitle {
+    color: teal;
+    margin-bottom: 20px ;
+}
