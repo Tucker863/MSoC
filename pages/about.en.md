@@ -33,10 +33,10 @@ By working with our students from toddlers to young adults and their parents, we
 
 <div style="clear:both"></div>
 
-### Enkhmaa Schwarz (Emma), Board Treasurer 
+### Emma Schwarz, Board Treasurer 
 <img src="" style="display:none"/>
 <img src="/assets/headshot/headshot - emma.png" style="float:left; margin-right:15px; height:200px"  />
-<div style="text-align: justify">Enkhmaa Schwarz (Emma) serves as board treasurer at the Mongolian School of Colorado, overseeing the accounting functions and reporting. As a board volunteer, Emma helps in fundraising and areas of operations. 
+<div style="text-align: justify">Emma Schwarz serves as board treasurer at the Mongolian School of Colorado, overseeing the accounting functions and reporting. As a board volunteer, Emma helps in fundraising and areas of operations. 
 Her other community engagement includes finance committee member for Latino Community Foundation of Colorado, advisory committee for Colorado Communities of Colorado Loan Fund as well as volunteering at Jewish Family Service.
 Emma currently works as the controller at Rose Community Foundation and is primarily responsible for maintaining the accuracy and integrity of the Foundation’s financial records. She held various positions in accounting and management in the for-profit sector. While working full time, she also helped run her family business with her husband.
 Emma received her bachelor’s degree in business administration and accounting from Columbia College in 2006. She also studied mathematics and economics in Ulaanbaatar, Mongolia, where she was born. She recently completed certificate programs for Nonprofit Financial Success from Cornell University and Management Essentials from Harvard Business School Online.
